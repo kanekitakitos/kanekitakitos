@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Brandon Mejia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/seu-usuario)
 
 ## 🎓 Sobre Mim
 
-Sou estudante de [Seu Curso] na Universidade do Algarve. Tenho interesse em [áreas de interesse, como programação, ciência de dados, design, etc.]. Estou sempre em busca de aprender novas habilidades e colaborar em projetos interessantes.
+Sou estudante de Engenharia Informatica na Universidade do Algarve. Tenho interesse em redes, programação e ciência de dados. Estou sempre em busca de aprender novas habilidades e colaborar em projetos interessantes.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -32,13 +32,12 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## 📫 Como me encontrar
 
-- Email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil/)
-- GitHub: [Seu Usuário](https://github.com/seu-usuario)
+- Email: [brandonmejiagithub@gmail.com](mailto:seu-email@exemplo.com)
+- GitHub: [kanekitakitos](https://github.com/seu-usuario)
 
 ## 🌱 Estou aprendendo
 
-Atualmente, estou aprendendo sobre [tecnologias ou tópicos que você está estudando]. Estou sempre aberto a colaborações e novas oportunidades!
+Atualmente, estou acabando o curso de Engenharia Informatica. Estou sempre aberto a colaborações e novas oportunidades!
 
 ---
 
