@@ -1,12 +1,7 @@
 # 🚀 Brandon Mejia
 
-<div align="center">
-  <img src="banner-footer.gif" alt="Header Banner" width="100%">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanekitakitos&show_icons=true&theme=midnight-purple)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanekitakitos&layout=compact)
 
-<div align="center">
-  <img src="line-neon.gif"  width="100%">
-</div>
 
 ---
 
@@ -65,10 +60,7 @@ Computer Science Engineering student at University of Algarve with **strong focu
 > 
 > **— Alan Turing** 🧠
 
-<div align="center">
-  <img src="line-neon.gif"  width="100%">
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanekitakitos&repo=github-readme-stats)](https://github.com/kanekitakitos/RAMRaiders-galaga-java)
 
-<div align="center">
-  <img src="banner-header.gif" alt="Footer Banner" width="100%">
-</div>
+
+
