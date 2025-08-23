@@ -1,4 +1,4 @@
-# 🚀 Brandon Mejia - Software Engineer & Computer Science Student
+# 🚀 Brandon Mejia
 
 <div align="center">
   <img src="banner-header.gif" alt="Header Banner" width="100%">
