@@ -10,21 +10,16 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Genera la animación de la serpiente
-      - uses: Platane/snk@master
-        id: snake-gif
+      
+      - name: generate-snake-animation
+        uses: Platane/snk@master
         with:
           github_user_name: kanekitakitos
           svg_out_path: dist/github-contribution-grid-snake.svg
-      
-      # Sube los archivos generados
-      - uses: actions/upload-artifact@v2
-        with:
-          name: snake-animation
-          path: dist/github-contribution-grid-snake.svg
 
-      # Sube los cambios al repositorio
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Sube el archivo SVG
+      - name: publish-snake-animation
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
