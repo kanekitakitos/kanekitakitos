@@ -4,14 +4,16 @@
   <img src="banner-footer.gif" alt="Header Banner" width="100%">
 </div>
 
+<div align="center">
+  <img src="line-neon.gif"  width="100%">
+</div>
+
+---
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brandonmejia4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/kanekitakitos)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:brandonmejiagithub@gmail.com)
 
-
-<div align="center">
-  <img src="line-neon.gif"  width="100%">
-</div>
 
 
 ## 👨‍💻 About Me
