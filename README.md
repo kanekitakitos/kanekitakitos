@@ -1,44 +1,64 @@
-# 👋 Olá, eu sou Brandon Mejia
+# 🚀 Brandon Mejia - Software Engineer & Computer Science Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/seu-usuario)
+<div align="center">
+  <img src="banner-header.gif" alt="Header Banner" width="100%">
+</div>
 
-## 🎓 Sobre Mim
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brandonmejia4/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/kanekitakitos)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:brandonmejiagithub@gmail.com)
 
-Sou estudante de Engenharia Informatica na Universidade do Algarve. Tenho interesse em redes, programação e ciência de dados. Estou sempre em busca de aprender novas habilidades e colaborar em projetos interessantes.
+## 👨‍💻 About Me
 
-## 🛠️ Tecnologias e Ferramentas
+Computer Science Engineering student at University of Algarve with **strong focus on networking, telecommunications, and backend development**. Passionate about distributed systems, network protocols, and building robust server-side solutions.
 
-- Linguagens: 
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+## 🎯 Core Competencies
 
-- Frameworks:
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+| **Backend & Systems** | **Networking & Telecom** | **Languages & Tools** | **Specializations** |
+|------------------------|---------------------------|------------------------|---------------------|
+| Node.js, Express, JWT | Linux, Shell Scripting, Network Protocols | Java, C/C++, Python, TypeScript, etc | OOP, Design Patterns, Algorithms |
 
-- Ferramentas:
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 🏆 Featured Projects
 
-## 📂 Projetos
+### **🌐 Backend & Full-Stack Applications**
+- **FilSerVault**: TypeScript movie manager (React + Node.js + JWT + NeDB)
+- **Competitive Programming System**: C-based contest management with TSV processing
+- **Player Management**: C system with custom data structures and memory management
 
-Aqui estão alguns dos meus projetos mais recentes:
+### **🎮 Game Development & Graphics**
+- **RAMRaiders**: Java Galaga clone with Strategy/Bridge patterns, AI, collision detection
+- **OOPSnake**: Advanced Snake with A* pathfinding, custom physics engine
+- **Puzzle Bubble**: Processing-based puzzle game with hexagonal grid system
 
-- [Projeto 1](link-do-projeto-1): Breve descrição do projeto.
-- [Projeto 2](link-do-projeto-2): Breve descrição do projeto.
-- [Projeto 3](link-do-projeto-3): Breve descrição do projeto.
+### **⚡ Algorithms & Data Structures**
+- **Advanced Collections**: Optimized queues, linked lists, cuckoo hash tables
+- **Numerical Analysis**: Python implementations of root finding, linear systems, integration
 
-## 📫 Como me encontrar
+## 🚀 Current Focus & Interests
 
-- Email: [brandonmejiagithub@gmail.com](mailto:seu-email@exemplo.com)
-- GitHub: [kanekitakitos](https://github.com/seu-usuario)
+- **🌐 Networking & Telecommunications**: Network protocols, distributed systems, network security
+- **⚙️ Backend Development**: Server-side architecture, API design, database optimization
+- **🔧 Systems Programming**: Operating systems, memory management, system calls
+- **🤖 Emerging Technologies**: Cloud computing, containerization, microservices
 
-## 🌱 Estou aprendendo
+## 📫 Contact
 
-Atualmente, estou acabando o curso de Engenharia Informatica. Estou sempre aberto a colaborações e novas oportunidades!
+- **Email**: brandonmejiagithub@gmail.com
+- **GitHub**: [kanekitakitos](https://github.com/kanekitakitos)
+- **Instagram**: [brandonmejia4](https://www.instagram.com/brandonmejia4/)
 
 ---
 
-Obrigado por visitar meu perfil! 😊
+*Backend-focused developer with strong networking knowledge and system programming skills. Passionate about building robust, scalable server solutions and network applications.* 🚀
+
+---
+
+> *"Sometimes it is the people no one imagines anything of who do the things that no one can imagine."*
+> 
+> **— Alan Turing** 🧠
+
+---
+
+<div align="center">
+  <img src="banner-footer.gif" alt="Footer Banner" width="100%">
+</div>
