@@ -60,7 +60,7 @@ Computer Science Engineering student at University of Algarve with **strong focu
 > 
 > **— Alan Turing** 🧠
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanekitakitos&repo=github-readme-stats)](https://github.com/kanekitakitos/RAMRaiders-galaga-java)
 
+![snake animations](https://github.com/kanekitakitos/kanekitakitos/blob/output/github-contribution-grid-snake.svg)
 
 
