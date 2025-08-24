@@ -23,22 +23,6 @@ Computer Science Engineering student at University of Algarve with **strong focu
 |------------------------|---------------------------|------------------------|---------------------|
 | Node.js, Express, JWT | Linux, Shell Scripting, Network Protocols | Java, C/C++, Python, TypeScript, etc | OOP, Design Patterns, Algorithms |
 
-## 🏆 Featured Projects
-
-### **🌐 Backend & Full-Stack Applications**
-- **FilSerVault**: TypeScript movie manager (React + Node.js + JWT + NeDB)
-- **Competitive Programming System**: C-based contest management with TSV processing
-- **Player Management**: C system with custom data structures and memory management
-
-### **🎮 Game Development & Graphics**
-- **RAMRaiders**: Java Galaga clone with Strategy/Bridge patterns, AI, collision detection
-- **OOPSnake**: Advanced Snake with A* pathfinding, custom physics engine
-- **Puzzle Bubble**: Processing-based puzzle game with hexagonal grid system
-
-### **⚡ Algorithms & Data Structures**
-- **Advanced Collections**: Optimized queues, linked lists, cuckoo hash tables
-- **Numerical Analysis**: Python implementations of root finding, linear systems, integration
-
 ## 🚀 Current Focus & Interests
 
 - **🌐 Networking & Telecommunications**: Network protocols, distributed systems, network security
