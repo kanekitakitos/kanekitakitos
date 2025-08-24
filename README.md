@@ -55,11 +55,6 @@ Computer Science Engineering student at University of Algarve with **strong focu
 </tr>
 </table>
 
----
-
-> *"Sometimes it is the people no one imagines anything of who do the things that no one can imagine."*
-> 
-> **— Alan Turing** 🧠
 
 ---
 
@@ -76,7 +71,11 @@ Computer Science Engineering student at University of Algarve with **strong focu
 
 ---
 
-<p align="center">🚀 <strong>Backend-focused developer with strong networking knowledge and system programming skills</strong> 🚀</p>
+> *"Sometimes it is the people no one imagines anything of who do the things that no one can imagine."*
+> 
+> **— Alan Turing** 🧠
+
+---
 
 
 
