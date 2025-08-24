@@ -1,7 +1,5 @@
 # 🚀 Brandon Mejia
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanekitakitos&show_icons=true&theme=midnight-purple)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanekitakitos&layout=compact)
-
 
 ---
 
@@ -43,4 +41,9 @@ Computer Science Engineering student at University of Algarve with **strong focu
 > *"Sometimes it is the people no one imagines anything of who do the things that no one can imagine."*
 > 
 > **— Alan Turing** 🧠
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanekitakitos&repo=Soccer_Players_Management_C)](https://github.com/kanekitakitos/Soccer_Players_Management_C) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanekitakitos&repo=Genealogical_Database)](https://github.com/kanekitakitos/Genealogical_Database) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanekitakitos&repo=Numerical_Analysis_python)](https://github.com/kanekitakitos/Numerical_Analysis_python) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanekitakitos&repo=RAMRaiders-galaga-java)](https://github.com/kanekitakitos/RAMRaiders-galaga-java)
+
+
+
 
