@@ -44,7 +44,3 @@ Computer Science Engineering student at University of Algarve with **strong focu
 > 
 > **— Alan Turing** 🧠
 
-
-![snake animations](https://github.com/kanekitakitos/kanekitakitos/blob/output/github-contribution-grid-snake.svg)
-
-
